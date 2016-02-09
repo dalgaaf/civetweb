@@ -1,6 +1,6 @@
 .deps/
 .dirstamp
-src/radosgw-civetweb.o
+*.o
 
 civetweb
 libcivetweb.a
